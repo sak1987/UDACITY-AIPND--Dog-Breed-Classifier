@@ -1,7 +1,7 @@
 # UDACITY- AIPND- Use a Pre-trained Image Classifier to Identify Dog Breeds.
 This repository contains _REVISED_ code and associated files for the AI Programming with Python Nanodegree program. This repository consists of a number of tutorial notebooks for various coding exercises and programming labs that will be used to supplement the lessons of the course.
 
-_**Intro to Python Project - Classifying Pet Images**_
+## _**Intro to Python Project - Classifying Pet Images**_
 
 ![Dog Breeds](https://user-images.githubusercontent.com/33560386/99956735-f053b600-2d9f-11eb-9bb1-12724685b68e.JPG)
 
@@ -57,12 +57,12 @@ If you feel that you need more guidance, please refer to the files ending with_h
 
 ## **The information provides:**
 
-Which **Lessons** to review regarding programming the undefined functions.
-Details about the assignment's files (e.g. image files in pet_images folder, dognames.txt).
-Details regarding using the classifier function in **classifier.py**.
-Links to relevant python documentation.
-Relevant example code.
-You can use the functions within the program **print_functions_for_lab_checks.py** to check your code for sections **8. Command Line Arguments through 17. Calculating Results.** You will find this program within the Project Workspace and within the **GitHub repository.**
+- Which **Lessons** to review regarding programming the undefined functions.
+- Details about the assignment's files (e.g. image files in pet_images folder, dognames.txt).
+- Details regarding using the classifier function in **classifier.py**.
+- Links to relevant python documentation.
+- Relevant example code.
+- You can use the functions within the program **print_functions_for_lab_checks.py** to check your code for sections **8. Command Line Arguments through 17. Calculating Results.** You will find this program within the Project Workspace and within the **GitHub repository.**
 
 ## **Program Outline**
 
