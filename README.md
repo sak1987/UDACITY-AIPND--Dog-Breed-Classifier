@@ -1,5 +1,7 @@
-# UDACITY-AIPND--Use a Pre-trained Image Classifier to Identify Dog Breeds
-_**Project of AI Programming with Python Nanodegree by Udacity**_
+# UDACITY- AIPND- Use a Pre-trained Image Classifier to Identify Dog Breeds.
+This repository contains _REVISED_ code and associated files for the AI Programming with Python Nanodegree program. This repository consists of a number of tutorial notebooks for various coding exercises and programming labs that will be used to supplement the lessons of the course.
+
+_**Intro to Python Project - Classifying Pet Images**_
 
 ![Dog Breeds](https://user-images.githubusercontent.com/33560386/99956735-f053b600-2d9f-11eb-9bb1-12724685b68e.JPG)
 
@@ -66,20 +68,20 @@ You can use the functions within the program **print_functions_for_lab_checks.py
 
 1.**Time** your program
 - Use Time Module to compute program runtime
-2.Get program **Inputs** from the user
+2. Get program **Inputs** from the user
 - Use command line arguments to get user inputs
-3.**Create** Pet Images Labels
+3. **Create** Pet Images Labels
 - Use the pet images filenames to create labels
 - Store the pet image labels in a data structure (e.g. dictionary)
-4.**Create** Classifier Labels and Compare Labels
+4. **Create** Classifier Labels and Compare Labels
 - Use the Classifier function to classify the images and create the classifier labels
 - Compare Classifier Labels to Pet Image Labels
 - Store Pet Labels, Classifier Labels, and their comparison in a complex data structure (e.g. dictionary of lists)
-5.**Classifying Labels** as "Dogs" or "Not Dogs"
+5. **Classifying Labels** as "Dogs" or "Not Dogs"
 - Classify all Labels as "Dogs" or "Not Dogs" using dognames.txt file
 - Store new classifications in the complex data structure (e.g. dictionary of lists)
-6.**Calculate** the Results
+6. **Calculate** the Results
 - Use Labels and their classifications to determine how well the algorithm worked on classifying images
-7.**Print** the Results
+7. **Print** the Results
 
 _**You will need to repeat these tasks for each of the three image classification algorithms that are provided to you.**_
