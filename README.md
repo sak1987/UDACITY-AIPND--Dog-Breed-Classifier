@@ -85,3 +85,8 @@ If you feel that you need more guidance, please refer to the files ending with_h
 7. **Print** the Results
 
 _**You will need to repeat these tasks for each of the three image classification algorithms that are provided to you.**_
+
+## Issues with the Project Workspace
+- While it is recommended that you work on the project within the **_Project Workspace_**, a few students _may_ experienced issues trying to work within the _Project Workspace_.  Some students found these issues resolved when they switched their internet browsers.  Specifically, some students found that **_Chrome_** worked best; while others found that **_Firefox_** worked better for them.  If you are running into the problem where the _files_ in the workspace don't load and/or running code within the workspace runs extremely slowly; please try the following:
+* Quit and exit out of the **_web browser_** you are using, then open it back up and restart it.
+* Switch to a different **_web browser_**. 
