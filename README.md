@@ -114,7 +114,8 @@ The following files and folders need to be put in the same folder as the **_chec
 * **test_classifier.py** (an example program that demonstrates how to use the classifier function)
 * **print_functions_for_lab_checks.py** (a program that contains functions that will allow you to check your code)
 
-Also be aware that instructor provided **_hints_** files are provided for each of the functions used within this project, these files will end with **_hints.py**. These **_hints_** files contain extra code to provide a few **_hints_** to help guide students to the solution. You will find these **_hints_** files within the **_Project Workspace_** and also within the [**_GitHub repository_**](https://github.com/udacity/AIPND-revision/tree/master/intropyproject-classify-pet-images) as the following files:
+**Also be aware that instructor provided **_hints_** files are provided for each of the functions used within this project, these files will end with **_hints.py**. These **_hints_** files contain extra code to provide a few **_hints_** to help guide students to the solution. You will find these **_hints_** files within the **_Project Workspace_** and also within the [**_GitHub repository_**](https://github.com/udacity/AIPND-revision/tree/master/intropyproject-classify-pet-images) as the following files:
+
 * **adjust_results4_isadog_hints.py** (a program that contains **_hints_** for the **adjust_results4_isadog** function that you will be defining as part of the project)
 * **calculates_results_stats_hints.py** (a program that contains **_hints_** for the **calculates_results_stats** function that you will be defining as part of the project)
 * **classify_images_hints.py** (a program that contains **_hints_** for the **classify_images** function that you will be defining as part of the project)
@@ -131,7 +132,7 @@ Also be aware that instructor provided **_hints_** files are provided for each o
 * Navigate to the _folder_ within the **Anaconda Prompt** that contains the _Project files_ including **_check_images.py_** and **_run_models_batch.bat_** using the command [_cd_](https://en.wikipedia.org/wiki/Cd_(command)).
 * Type the command within the **Anaconda Prompt**:
 ```terminal
-**run_models_batch.bat**
+run_models_batch.bat
 ```
 - If instead you are working with the uploaded images , you will replace all instances of **_run_models_batch.bat_** from the _directions_ above with **_run_models_batch_uploaded.bat_**. 
 &nbsp;     
