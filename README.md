@@ -5,10 +5,10 @@ _**Project of AI Programming with Python Nanodegree by Udacity**_
 
 This is a very popular project across Machine learning & Artificial Intelligence Nanodegree Programs offered by [Udacity!](https://www.udacity.com/). This project requires working with three different pre-trained image classifiers. In addition, and writing our own script to identify different dog breeds.
 
-##**Project Goal**
+## **Project Goal**
 Improving our programming skills using **Python**.
 
-##**Project Description**:
+## **Project Description**:
 Your city is hosting a citywide dog show and you have volunteered to help the organizing committee with contestant registration. Every participant that registers must submit an image of their dog along with biographical information about their dog. The registration system tags the images based upon the biographical information.
 Some people are planning on registering pets that aren’t actual dogs.
 
@@ -16,7 +16,7 @@ You need to use an already developed Python classifier to make sure the particip
 
 _**Note, you DO NOT need to create the classifier. It will be provided to you. You will need to apply the Python tools you just learned to USE the classifier.**_
 
-##**Tasks:**
+## **Tasks:**
 
 1. Using our Python skills, as we will determine which image classification algorithm works the "best" on classifying images as "dogs" or "not dogs".
 2. Determine how well the "best" classification algorithm works on correctly identifying a dog's breed.
@@ -24,7 +24,7 @@ If the programmer are confused by the term image classifier look at it simply as
 (for example: a dog). Be mindful of the fact that image classifiers do not always categorize the images correctly. (We will get to all those details much later on the program).
 3. Time how long each algorithm takes to solve the classification problem. With computational tasks, there is often a trade-off between accuracy and runtime. The more accurate an algorithm, the higher the likelihood that it will take more time to run and use more computational resources to run.
 
-##**Principal Objectives**
+## **Principal Objectives**
 
 1. Correctly identify which pet images are of dogs (even if breed is misclassified) and which pet images aren't of dogs.
  
@@ -35,16 +35,16 @@ If the programmer are confused by the term image classifier look at it simply as
 4. Consider the time resources required to best achieve objectives 1 and 2, and determine if an alternative solution would have given a "good enough" result, given the amount of time each of the algorithms take to run.
 
 
-#**TODO:**
+# **TODO:**
 
-Edit program check_images.py
-The check_images.py is the program file that you will be editing to achieve the four objectives above. This file contains a main() function that outlines how to complete this program through using functions that have not yet been defined. You will be creating these undefined functions in check_images.py to achieve the objectives above.
+**Edit program check_images.py**
+- The **check_images.py** is the program file that you will be editing to achieve the four objectives above. This file contains a **main()** function that outlines how to complete this program through using functions that have not yet been defined. You will be creating these undefined functions in **check_images.py** to achieve the objectives above.
 
 All of the TODOs are listed in check_images.py. You will find further elaborations and explanations for each, in the following concepts of this project.
 
 If you feel that you need more guidance, please refer to the files ending with_hints.py. In the workspace you will find a hint file for each of the tasks.
 
-##**Important notes:**
+## **Important notes:**
 
 1. Before beginning the project please review the Frequently Asked Questions, FAQ, about the project.
 2. This project and other lessons within the Nanodegree will be using a GitHub repository to store program files and other resources for this Nanodegree. To learn more about **GitHub**, please see the GitHub Lesson that's located within the **Extracurricular** (optional) section of this Nanodegree.
@@ -53,7 +53,7 @@ If you feel that you need more guidance, please refer to the files ending with_h
 5. Function docstrings contain input parameters and return values, which were left to provide guidance. You are welcome to program these functions differently.
 6. In **6. Timing Code to 19. Printing Results** we will provide additional guidance for programming the undefined functions and completing the check_images.py program. This information has been provided to help you through the process.
 
-**The information provides:**
+## **The information provides:**
 
 Which **Lessons** to review regarding programming the undefined functions.
 Details about the assignment's files (e.g. image files in pet_images folder, dognames.txt).
@@ -62,23 +62,24 @@ Links to relevant python documentation.
 Relevant example code.
 You can use the functions within the program **print_functions_for_lab_checks.py** to check your code for sections **8. Command Line Arguments through 17. Calculating Results.** You will find this program within the Project Workspace and within the **GitHub repository.**
 
-##**Program Outline**
+## **Program Outline**
 
-1.Time your program
-Use Time Module to compute program runtime
-2.Get program Inputs from the user
-Use command line arguments to get user inputs
-3.Create Pet Images Labels
-Use the pet images filenames to create labels
-Store the pet image labels in a data structure (e.g. dictionary)
-4.Create Classifier Labels and Compare Labels
-Use the Classifier function to classify the images and create the classifier labels
-Compare Classifier Labels to Pet Image Labels
-Store Pet Labels, Classifier Labels, and their comparison in a complex data structure (e.g. dictionary of lists)
-5.Classifying Labels as "Dogs" or "Not Dogs"
-Classify all Labels as "Dogs" or "Not Dogs" using dognames.txt file
-Store new classifications in the complex data structure (e.g. dictionary of lists)
-6.Calculate the Results
-Use Labels and their classifications to determine how well the algorithm worked on classifying images
-7.Print the Results
+1.**Time** your program
+- Use Time Module to compute program runtime
+2.Get program **Inputs** from the user
+- Use command line arguments to get user inputs
+3.**Create** Pet Images Labels
+- Use the pet images filenames to create labels
+- Store the pet image labels in a data structure (e.g. dictionary)
+4.**Create** Classifier Labels and Compare Labels
+- Use the Classifier function to classify the images and create the classifier labels
+- Compare Classifier Labels to Pet Image Labels
+- Store Pet Labels, Classifier Labels, and their comparison in a complex data structure (e.g. dictionary of lists)
+5.**Classifying Labels** as "Dogs" or "Not Dogs"
+- Classify all Labels as "Dogs" or "Not Dogs" using dognames.txt file
+- Store new classifications in the complex data structure (e.g. dictionary of lists)
+6.**Calculate** the Results
+- Use Labels and their classifications to determine how well the algorithm worked on classifying images
+7.**Print** the Results
+
 _**You will need to repeat these tasks for each of the three image classification algorithms that are provided to you.**_
